@@ -1,0 +1,1 @@
+http://tampere.navici.com:80/tampere_wfs_geoserver/opendata/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=opendata:KESKUSTAN_PYSAKOINTI_VIEW&outputFormat=shape-zip
